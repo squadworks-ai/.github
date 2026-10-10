@@ -2,8 +2,8 @@
 
 **Fábrica de software agêntica.** Entra um app. Sai um produto.
 
-Fundada em outubro de 2026 por [Leandro Harfuch](https://github.com/lharfuch), no Brasil.
-[squadworks.com.br](https://squadworks.com.br) · [Registro de mudanças](https://squadworks.com.br/mudancas) · [contato@squadworks.com.br](mailto:contato@squadworks.com.br)
+Fundada em outubro de 2026, no Brasil.
+[squadworks.com.br](https://squadworks.com.br) · [contato@squadworks.com.br](mailto:contato@squadworks.com.br)
 
 ## O que fazemos
 
@@ -15,19 +15,19 @@ A fábrica é construída sobre os modelos Claude, da Anthropic. A esteira, os t
 
 - [site](https://github.com/squadworks-ai/site): o site da Squadworks, em português e inglês.
 
-O núcleo da fábrica é privado. O que for público aparece nesta organização e no [registro de mudanças](https://squadworks.com.br/mudancas), com data.
+O núcleo da fábrica é privado. O que for público aparece nesta organização.
 
 ---
 
 **Agentic software factory.** An app goes in. A product comes out.
 
-Founded in October 2026 by [Leandro Harfuch](https://github.com/lharfuch), in Brazil.
-[squadworks.com.br/en](https://squadworks.com.br/en/) · [Changelog](https://squadworks.com.br/en/changelog) · [contato@squadworks.com.br](mailto:contato@squadworks.com.br)
+Founded in October 2026, in Brazil.
+[squadworks.com.br/en](https://squadworks.com.br/en/) · [contato@squadworks.com.br](mailto:contato@squadworks.com.br)
 
 We take an app, no matter how it was built, or just an idea, and run it through the line: diagnosis, fixes, tests, integrations and a production gate. It ships to production, secure, tested and ready to sell. The customer approves the plan and clicks publish. The factory does the rest.
 
 The factory is built on Claude models by Anthropic. The line, the tests and the gates are ours.
 
-The factory's core is private. Whatever is public shows up in this organization and in the dated [changelog](https://squadworks.com.br/en/changelog).
+The factory's core is private. Whatever is public shows up in this organization.
 
 - [site](https://github.com/squadworks-ai/site): the Squadworks website, in Portuguese and English.
